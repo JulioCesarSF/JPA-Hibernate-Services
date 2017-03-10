@@ -1,0 +1,18 @@
+1. Configurar o axis2 n eclipse (16.2)
+2. Dynamic Web Project
+--Tomcat 9
+--module version 2.5
+--marcar o axis na configuração
+
+WS PROVIDE (gerar o wsdl)
+-Botão direito na classe
+-web services 
+--create webservice
+-Muda p/axis e finish
+
+WS REQUESTER (gerar as classes de acesso ao ws)
+-Endereço de wsds
+--New -> Other -> Web service CLIENT
+
+
+Usaro SOAP UI p teste	
